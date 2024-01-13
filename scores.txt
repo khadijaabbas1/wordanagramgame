@@ -1,0 +1,4 @@
+Khadija: 40
+khadija: 70
+khadija: 190
+haris: 50
